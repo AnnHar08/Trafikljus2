@@ -1,0 +1,55 @@
+body {
+    background-color: gray;
+    margin: 0px;
+}
+
+.vitplatta {
+    display: inline-block;
+    background-color: white;
+    margin-left: 180px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.redbox,
+.yellowbox,
+.greenbox { 
+    margin: 10px;
+    width: 150px;
+    height: 150px;
+}
+
+.redbox {
+    background-color: red;
+    border: 15px solid darkred;
+}
+
+.yellowbox {
+    background-color: yellow;
+    border: 15px solid goldenrod;
+}
+
+.greenbox {
+    background-color: green;
+    border: 15px solid darkgreen;
+}
+
+.minired {
+    background-color: pink;
+    height: 75px;
+    margin-top: 75px;
+}
+
+.miniyellow {
+    background-color: lightgoldenrodyellow;
+    height: 75px;
+    margin-top: 75px;
+    margin-left: 75px;
+}
+
+.minigreen {
+    background-color: lightgreen;
+    height: 75px;
+    margin-top: 75px;
+    margin-right: 75px;
+}
